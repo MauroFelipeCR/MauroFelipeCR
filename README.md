@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
 ## Minhas Habilidades
 
 <div style="display: inline_block">
 
 </div>
 
+<!--
 ## Ferramentas
 
 <div style="display: inline_block">
