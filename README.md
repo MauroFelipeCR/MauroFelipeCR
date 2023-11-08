@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
+
 ## Minhas Habilidades
 
 <div style="display: inline_block">
-<img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-<img align="center" alt="" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg">
+
+
 </div>
 
-<!--
+
 ## Ferramentas
 
 <div style="display: inline_block">
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 </div>
 
+<!--
 ## Estudando no Momento 
 
 <div style="display: inline_block">
