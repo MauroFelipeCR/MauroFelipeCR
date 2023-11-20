@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 ## Ferramentas
 
 <div style="display: inline_block">
-<img align="center" alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-<img align="center" alt="" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg">
+<img align="center" alt="" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+<img align="center" alt="" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg">
 
 </div>
 
