@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 
-## Contatos 
+## Onde me encontrar
 
 <div style="display: inline_block">
 
